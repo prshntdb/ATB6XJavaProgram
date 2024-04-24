@@ -1,3 +1,5 @@
+package HOMEWORK;
+
 public class HOMEWORK_2004204 {
     public static void main(String[] args) {
         System.out.println("Question 1");

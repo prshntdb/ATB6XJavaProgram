@@ -1,3 +1,5 @@
+package HOMEWORK;
+
 import java.util.Scanner;
 
 public class Positive_Negative_Number {
